@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "nombre": "German",
+        "apellido": "Riera",
+        "active": true,
+        "fecha_creacion": "11-09-2024"
+    }
+]
